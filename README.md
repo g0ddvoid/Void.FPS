@@ -25,13 +25,11 @@
 ## 🛠️ **Installation**  
 1. **Download** the latest release from 👉 [Releases](https://github.com/YOUR_GITHUB_USERNAME/VOID.FPS/releases).  
 2. **Extract** the ZIP file to a folder on your PC.  
-3. **Run `VOID.FPS.bat`** as **Administrator**.  
+3. **Run `Void.FPS.exe`** as **Administrator**.  
 4. Follow the on-screen instructions and enjoy the performance boost!  
 
 ---
 
 ## 🎯 **How to Use**  
 ```batch
-@echo off
-:: Run as Administrator for best results
-start VOID.FPS.bat
+Simply run Void.FPS.exe, select your desired tweaks, and optimize your system. ⚡ Before applying changes, create a restore point to ensure you can easily revert if needed!
