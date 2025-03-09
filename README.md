@@ -23,7 +23,7 @@
 ---
 
 ## 🛠️ **Installation**  
-1. **Download** the latest release from 👉 [Releases](https://github.com/YOUR_GITHUB_USERNAME/VOID.FPS/releases).  
+1. **Download** the latest release from 👉 [Releases](https://github.com/g0ddvoid/VOID.FPS/releases).  
 2. **Extract** the ZIP file to a folder on your PC.  
 3. **Run `Void.FPS.exe`** as **Administrator**.  
 4. Follow the on-screen instructions and enjoy the performance boost!  
